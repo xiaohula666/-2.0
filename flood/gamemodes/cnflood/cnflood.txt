@@ -1,0 +1,11 @@
+"gamemode"
+{
+    "title"     "洪水模式2.0(汉化版)"
+    "maps"      "^fm_"
+    "base"      "base"
+    "menusystem"	"1"
+
+    "author_name"   "Mythikos & Freezebug/xbox & %nm柠檬"
+    "author_email"  "n/a"
+    "author_url"    "n/a"
+}
